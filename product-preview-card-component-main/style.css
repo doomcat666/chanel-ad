@@ -1,0 +1,42 @@
+body{
+    background-color: blanchedalmond;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  .title {
+    position: fixed;
+    bottom: 0;
+    left: 1100px;
+    top: 60px;
+  }
+  .title2 {
+    position: fixed;
+    bottom: 0;
+    left: 1100px;
+    top: 90px;
+  }
+  .para {
+    position: fixed;
+    bottom: 0;
+    left: 1100px;
+    top: 220px;
+  }
+.price{
+position: fixed;
+bottom: 0;
+left: 1100px;
+top: 300px;
+}
+.priceold{
+    position: fixed;
+    bottom: 0;
+    left: 1220px;
+    top: 300px; }
+.btn{ position: absolute;
+    bottom: 260PX;
+    left: 560px;
+    background-color: inherit;
